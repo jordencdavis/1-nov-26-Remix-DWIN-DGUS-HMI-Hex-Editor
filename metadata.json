@@ -1,0 +1,8 @@
+{
+  "name": "Remix DWIN DGUS HMI Hex Editor",
+  "description": "Visual editor, Hex stream lab, screen registry, parameter registry, and C code generator for DWIN DGUS smart displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
